@@ -37,9 +37,8 @@ The following **additional** features are implemented:
 * [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
-
 Here's a walkthrough of implemented user stories:
-<img src='http://i.imgur.com/5sThYcO.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/e1ymEAC.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
